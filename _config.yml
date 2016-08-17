@@ -1,3 +1,4 @@
+layout_spectrum: 0.4191855420358479
 typography_spectrum: 0.9366366267204285
 color:
   brandStrength: 0.558705234201625
@@ -10,7 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.4191855420358479
 name: patlog
-title: 'Service & graphic designer '
-description: need humain interaction
