@@ -1,0 +1,14 @@
+layout_spectrum: 0.4191855420358479
+typography_spectrum: 0.9366366267204285
+color:
+  brandStrength: 0.558705234201625
+  lightness: 0.6288025251124054
+  saturation: 0.40758476639166474
+  rhythmicContrast: 0.7955877743661404
+  brandColors:
+    - '#D5D5D5'
+    - '#F78E32'
+    - '#E95C24'
+    - '#8A8C8B'
+    - '#702E14'
+name: patlog
